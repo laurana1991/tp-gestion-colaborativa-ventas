@@ -59,3 +59,4 @@ python scripts/analisis_ventas.py
 
 3. Consultar resultados:
 El gráfico generado se almacena en la carpeta /resultados.
+ 
