@@ -2,6 +2,7 @@
 
 ## Integrante
 - Ana Laura Mansilla
+- Gonzalo Gomez
 
 ## Materia
 Organización Empresarial - UTN TUP a Distancia
